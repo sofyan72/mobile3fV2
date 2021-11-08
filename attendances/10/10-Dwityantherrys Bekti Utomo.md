@@ -24,5 +24,7 @@ sedangkan di halaman register menggunakan navigator pop, karena setelah register
 bisa menggunakan prefix seperti di halmaan login, tetapi lebih efektif menggunakan Pop.
 
 link Git Repo : https://github.com/dwityantherrys/flutter_login
+
 Halaman Login : ![LoginPage](Login.PNG)
+
 Halaman Register : ![RegisterPage](Register.PNG)
