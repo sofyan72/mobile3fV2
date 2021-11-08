@@ -26,7 +26,9 @@ bisa menggunakan prefix seperti di halmaan login, tetapi lebih efektif menggunak
 link Git Repo : https://github.com/dwityantherrys/flutter_login
 
 Halaman Login :
+---
 ![LoginPage](Login.PNG)
 
 Halaman Register :
+---
 ![RegisterPage](Register.PNG)
