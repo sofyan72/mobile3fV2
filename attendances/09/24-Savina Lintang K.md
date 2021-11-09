@@ -7,6 +7,5 @@ lalu selanjutnya mempelajari cara membuatt controller authentikasi atau AuthCont
 nanti user akan mendapat token saat login di postman, setelah itu jika pada postman register berhasil maka akan mendapat token juga untuk proses selanjutnya yaitu login dan logout
 
 ## LINK
-
 Link Repo Flutter API https://github.com/savinalintang/flutter-api.git
 Link Repo Wakatime https://github.com/savinalintang/Wakatime.git
