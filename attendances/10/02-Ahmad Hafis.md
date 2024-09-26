@@ -1,0 +1,13 @@
+Pertemuan 10 
+- Pada pertemuan ini, belajar tentang menghubungkan project flutter ke project Laravel yang sudah dibuat minggu lalu.
+- Pada hari ini fokus dalam membuat halaman login dan register.
+- Untuk membuat sebuah default code di flutter, kita dapat menggunakan metaapp, dimana metaapp ini nantinya akan memuat code default flutter(perlu menginstall extension flutter snippets).
+- Di awal kita membuat halaman untuk login, di halaman login ini nantinya terdapat TextField untuk memasukkan email dan password.
+- Kita dapat mengubah keyboard tiap memasukkan data dengan keyboardType, dimana untuk keyboardType email, dapat menggunakan textInputType.emailAddress, dan untuk password dapat menggunakan TextInputType.visiblePassword.
+- Di halaman login juga terdapat tombol untuk login menggunakan ElevatedButton.
+- Agar lebih rapi, code halaman login di main.dart dapat dipindahkan dengan membuat halaman login.dart yang berada di folder screens yang sudah dibuat. Dengan menggunakan Ctrl + . kita dapat mengekstrak menjadi widget.
+-  Setelah dipindah, di main.dart, kita akan menambahkan routes untuk mengarahkan halaman login dan register
+- halaman register sama pembuatannya dengan halaman login, tetapi isinya diubah dimana terdapat nama,email, password, dan confirm password.
+- InkWell digunakan untuk memberi link ke suatu halaman. Jika di html, sama seperti href
+- Link Wakatime : https://github.com/ahmadhafis/mobile-3f-02/blob/main/10/10.PNG
+- Link Repo : https://github.com/ahmadhafis/flutter_app.git

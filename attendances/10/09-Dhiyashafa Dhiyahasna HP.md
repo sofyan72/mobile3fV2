@@ -1,0 +1,6 @@
+Pada pertemuan kali ini belajar tentang cara membuat tampilan login dan register menggunakan flutter. Pada project kali ini semua yang ada dalam flutter adalah berbasis widget, pada pertemuan kali ini hanya membahas bagian tampilan/frontend dari login dan register. Tapi sebelum itu kita harus membuat halaman login dan halaman registrasi, kita perlu membuat folder baru yang bernama screens, yang nantinya akan dipanggil di file main.dart. Untuk file halaman login diberi nama login.dart, untuk file halaman register diberi nama register.dart. Halaman login dan register harus di dalam folder screens. 
+
+Pada sebuah project flutter terdapat yang namanya scaffold yang merupakan wadah/tempat dasar dari sebuah project flutter itu sendiri lalu juga terdapat sebuah appbar yang memiliki title yang berupa widget. Lalu pada pembatan fungsi jika baris yang di eksekusi hanya 1 baris kita bisa menggunakan tanda panah yaitu kombinasi antara sama dengan dan tanda lebih besar jika baris yang di eksekusi lebih dari satu baris maka kita bisa menggunakan tanda kurung kurawal pada pembuatan fungsinya.
+
+Link flutter app: https://github.com/dhiyashafa/flutter_app.git
+Link wakatime: https://github.com/dhiyashafa/Screenshot_Wakatime/blob/main/09_Screenshot%2010.md
